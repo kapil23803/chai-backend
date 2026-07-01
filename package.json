@@ -1,0 +1,32 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "code aur chai project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/kapil23803/chai-backend#readme",
+  "bugs": {
+    "url": "https://github.com/kapil23803/chai-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapil23803/chai-backend.git"
+  },
+  "license": "ISC",
+  "author": "kapil poonia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
